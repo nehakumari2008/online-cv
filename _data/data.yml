@@ -63,7 +63,7 @@ projects:
 "
 
       - title: Covid Bot
-        link: "#"
+        link: "https://github.com/nehakumari2008/covidbot"
         tagline: "It helps telegram users to ﬁnd covid cases stats such as active, discharge, and conﬁrmed cases. Tech used Python and Telegram."
 
 publications:
