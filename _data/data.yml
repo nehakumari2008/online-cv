@@ -66,10 +66,6 @@ projects:
         link: "#"
         tagline: "It helps telegram users to ﬁnd covid cases stats such as active, discharge, and conﬁrmed cases. Tech used Python and Telegram."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
 publications:
     title: Professional Certiﬁcations
     intro: |
