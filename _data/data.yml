@@ -51,16 +51,54 @@ education:
       time: 2020 - 2022
       
 projects:
-    title: Air Quality Monitoring
+
+    projects:
+    title: Projects
     intro: >
-      To sense and measure the air quality using Raspberry Pi and SDS011(sensor) and by the use of MQTT broker and the server Thingspeak. 
-      Technology used Python, Raspberry pi, SDS011(sensor)
+      
+    assignments:
+      - title: Air Quality Monitoring
+        link: "https://github.com/nehakumari2008/air-quality-monitoring"
+        tagline: "To sense and measure the air quality using Raspberry Pi and SDS011(sensor) and by the use of MQTT broker and the server Thingspeak. Tech used Python, Raspberry Pi, SDS011(sensor)
+"
+
+      - title: Covid Bot
+        link: "#"
+        tagline: "It helps telegram users to ﬁnd covid cases stats such as active, discharge, and conﬁrmed cases. Tech used Python and Telegram."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+publications:
+    title: Professional Certiﬁcations
+    intro: |
+      
+    papers:
+      - title: Learning Python (Beginner)
+        link: "#"
+        authors: Linkedin Learning
+
+      - title: Introduction to JavaScript (Beginner)
+        link: "#"
+        authors: by Great Learning 
+
+      - title: Front End Development in CSS (Beginner)
+        link: "#"
+        authors: by Great Learning
+        
+      - title: Front End Development in HTML (Beginner)
+        link: "#"
+        authors: by Great Learning
+        
+      - title: Java Programming (Beginner)
+        link: "#"
+        authors: by Great Learning
+        
+      - title: Learning Java (Beginner)
+        link: "#"
+        authors: Linkedin Learning
      
-    title: Covid Bot
-    intro: >
-       It helps telegram users to ﬁnd covid cases stats such as active, discharge, and conﬁrmed cases. 
-       Technology used Python, Telegram API.
-  
 
 skills:
     title: Skills &amp; Proficiency
